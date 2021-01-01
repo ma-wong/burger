@@ -1,7 +1,9 @@
 <li>
 	{{burger_name}}
 
+    {{#if devoured}}
 	<button class="change-state" data-id="{{id}}" data-newState="{{devour}}">
-		{{#if devoured}}DEVOUR{{/if}}
+		DEVOUR
 	</button>
+    {{/if}}
 </li>
