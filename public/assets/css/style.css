@@ -1,0 +1,44 @@
+body {
+   background-color: rgb(255, 208, 0); 
+}
+
+#burger-icon {
+    height: 12rem;
+    width: 12rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title {
+    color: crimson;
+    font-size: 30pt;
+    text-align: center;
+}
+
+.eaten {
+    text-align: center;
+}
+
+.not-eaten {
+    text-align: center;
+}
+
+.add-burger {
+    text-align: center;
+}
+
+#submit-btn {
+    margin: 5pt;
+    padding: 5pt;
+}
+
+ol {
+    border-style: solid;
+    background-color: white;
+    margin-right: 4rem;
+    margin-left: 4rem;
+    text-align: start;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
