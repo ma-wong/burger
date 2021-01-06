@@ -28,3 +28,4 @@ Example list of burgers already eaten
 
 ![Add a burger form](./assets/add-burger.png)
 Input form to add a new burger
+ 
